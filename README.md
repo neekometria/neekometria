@@ -2,7 +2,7 @@
 #### Sobre mim
 
 - Atualmente cursando Desenvolvimento de Sistemas
-- Aprendendo C#, JavaScript, CSS e HTML
+- Aprendendo C#, Lua, JavaScript, CSS e HTML
 - Gosto muito de Star Trek, ou seja, sou um Trekker 🖖
 
 ### Prazer te conhecer!
