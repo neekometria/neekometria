@@ -3,8 +3,11 @@
 
 - Atualmente cursando Desenvolvimento de Sistemas
 - Aprendendo C#, JavaScript, CSS e HTML
-- Estou sempre disponível no discord para trocar ideias - Mono Dryad#5733
-- Sou um Trekker 🖖
+- Gosto muito de Star Trek, ou seja, sou um Trekker 🖖
 
 ### Prazer te conhecer!
+
+## Conexões
+Linkedin: https://www.linkedin.com/in/rai-raul-418856222/
+Discord: Mono Dryad#5733
 
