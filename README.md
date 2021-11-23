@@ -8,7 +8,7 @@
 ### Prazer te conhecer!
 
 ## Conexões
-Linkedin: https://www.linkedin.com/in/rai-raul-418856222/
+Linkedin: https://www.linkedin.com/in/ra%C3%AD-raul-418856222/
 
 Discord: Mono Dryad#5733
 
