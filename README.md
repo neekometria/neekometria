@@ -1,4 +1,4 @@
-### Me chamo Raí 👋, tambem conhecido como Mono Dryad
+### Me chamo Raí 👋
 #### Sobre mim
 
 Comecei a me apaixonar por programação depois de ir atrás de como modificar um jogo chamado Garry's Mod, após ser introduzido a linguagem Lua, eu simplesmente não consegui parar de programar, é sempre satisfatório ver o progresso depois de 6+ horas programando sem parar.
