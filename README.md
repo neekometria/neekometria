@@ -12,8 +12,4 @@ Aprendendo C#, Lua, JavaScript, CSS e HTML
 
 ### Prazer te conhecer!
 
-## Conexões
-Linkedin: https://www.linkedin.com/in/ra%C3%AD-raul-418856222/
-
-Discord: Mono Dryad#5733
 
