@@ -8,7 +8,7 @@ Cursando Desenvolvimento de Sistemas no SENAI
 
 Aprendendo C#, Lua, JavaScript, CSS e HTML
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monodryad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbsravus)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Prazer te conhecer!
 
