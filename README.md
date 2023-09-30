@@ -9,7 +9,7 @@
 * Advanced knowledge: Bootstrap, Krita, Word and Excel.
 * Basic knowledge: Postgres, ExpressJS, Regex and other tools.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbsravus&layout=compact)
 
 ## PROJECTS
 ### BattleMode - Design Beta - Current in DEV
