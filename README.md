@@ -6,10 +6,13 @@
 ### KNOWLEDGE
 
 * Mastery: HTML5, CSS, Javascript e React JS.
-* Advanced knowledge: Bootstrap, Krita, Word and Excel.
+* Advanced knowledge: Bootstrap, Krita, LUA, Word and Excel.
 * Basic knowledge: Postgres, ExpressJS, Regex and other tools.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbsravus&layout=compact)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vbsravus)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## PROJECTS
 ### BattleMode - Design Beta - Current in DEV
