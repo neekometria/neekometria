@@ -5,9 +5,9 @@
 
 ### KNOWLEDGE
 
-* Mastery: HTML5, CSS, Javascript e React JS.
-* Advanced knowledge: Bootstrap, Krita, LUA, Word and Excel.
-* Basic knowledge: Postgres, ExpressJS, Regex and other tools.
+* Mastery: HTML5, CSS, Javascript, jQuery and React JS.
+* Advanced knowledge: Bootstrap, Figma, Word and Excel.
+* Basic knowledge: Postgres, ExpressJS, LUA, Regex and other tools.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbsravus&layout=compact)
 
