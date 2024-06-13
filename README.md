@@ -1,8 +1,4 @@
 ## ABOUT ME
-### PERSONAL
-* Full Name: Rai Raul Cunha de Souza
-* Age: 19 anos
-
 ### KNOWLEDGE
 
 * Mastery: HTML5, CSS, Javascript, jQuery and React JS.
