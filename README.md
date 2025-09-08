@@ -5,24 +5,15 @@
 * Advanced knowledge: Bootstrap, Figma, Word and Excel.
 * Basic knowledge: Postgres, ExpressJS, LUA, Regex and other tools.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbsravus&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neekometria&layout=compact)
 
 
 ## PROJECTS
 ### BattleMode - Design Beta - Current in DEV
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vbsravus&repo=BattleMode-DesignBeta)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vbsravus/BattleMode-DesignBeta-Backend))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vbsravus&repo=BattleMode-DesignBeta)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/neekometria/BattleMode-DesignBeta-Backend))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vbsravus&repo=BattleMode-DesignBeta-Backend)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vbsravus/BattleMode-DesignBeta-Backend))
-
-
-### Prototype Mission - Entry Point for Competitive Games
-![PrototypeMission](https://media.discordapp.net/attachments/1074484549704220695/1075421215927308308/PrototypeMissionLogo.png?width=256&height=256)
-
-* Website: https://protomission.netlify.app/
-* Twitch: https://www.twitch.tv/prototype_mission
-* Twitter: https://twitter.com/Proto_Mission
-* Instagram: https://www.instagram.com/proto_mission/
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neekometria&repo=BattleMode-DesignBeta-Backend)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/neekometria/BattleMode-DesignBeta-Backend))
 
 
 ### BattleMode - Tournament Hoster
