@@ -1,6 +1,6 @@
 ## MEU CONHECIMENTO
 
-* Avançado: React JS, HTML5, CSS, Javascripta and jQuery.
+* Avançado: React JS, HTML5, CSS, Javascript and jQuery.
 * Consigo me virar: Bootstrap, Figma, Word and Excel.
 * Conhecimento básico: Postgres, ExpressJS, LUA, Regex and other tools.
 
