@@ -64,5 +64,5 @@ Repositório público com exercícios, scripts e mini projetos desenvolvidos dur
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312e81&height=2&section=footer" width="100%" alt="" />
-  <sub>Construindo, aprendendo e compartilhando — um projeto de cada vez.</sub>
+  <sub>Aceito qualquer microfone.</sub>
 </div>
